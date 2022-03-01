@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\myself\STUDY\SpringCloud\尚硅谷SpringCloud第2季当堂代码和脑图笔记\尚硅谷SpringCloud第2季当堂代码和脑图笔记2020.2.29\cloud2020\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
